@@ -31,6 +31,6 @@ pillow==10.0.1
 psycogreen==1.0.2
 psycopg2==2.9.7
 redis==5.0.0
-requests==2.31.0
+requests==2.33.0
 git+https://github.com/bnb-chain/safe-eth-py.git@v5.8.0-bnbchain#egg=safe-eth-py
 web3==6.9.0
